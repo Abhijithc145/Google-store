@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Google Sans',Arial,sans-serif;
+    color: #3c4043;
+}
+.header{
+    position: fixed;
+    z-index: 8;
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+    display: flex;
+    align-content: center;
+    padding-top: 25px;
+    top: 0;
+}
+.left-header{
+    width: 208px;
+    height: 50px;
+    background-color: #ffffff;
+}
+.g-store{
+    width: 147px;
+    height: 34px;
+    margin-left: 80px;
+
+}
+.rgt-header{
+    margin-left: 910px;
+    width: 206px;
+    height: 45px;
+    display: flex;
+    align-content: center;
+}
+.rgt-header-main{
+       margin-left: 25px;
+       font-size: 25px;
+}
+.condiner{
+    width: 100%;
+    height: 380vh;
+    background-color: #ffffff;
+    position: relative;
+    top: 103px;
+}
+.welcome{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 23px;
+    
+}
+.g-welcome{
+    color: #188038;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0;
+    letter-spacing: -2px;
+        margin-top: 25px;
+    margin-left: 53px;
+}
+.condiner-set{
+    height: 300px;
+    padding-top: 95px;
+    padding-left: 470px;
+
+}
+.main-condiner{
+    width: 100%;
+    display: flex;
+    align-content: center;
+}
+.main-condiner-lft{
+    width: 25%;
+    height: 260vh;
+    background-color: #ffffff;
+    
+}
+.main-condiner-rgt{
+    width: 75%;
+    height: 260vh;
+    background-color:#ffffff;
+}
+.prodect-condiner{
+    color: black;
+    margin-left: 65px;
+}
+.pt{
+    color:black;
+    font-size: 18px;
+    font-weight: 600;
+}
+.check{
+    font-weight: 600;
+    margin-top: 10px;
+}
+.first-section{
+    margin-top: 45px;
+    display: flex;
+    align-content: center;
+
+   
+}
+.pic1{
+    width: 33%;
+    height: 336px;
+}
+.img{
+    width: 260px;
+    height: 226px;
+    margin-left: 65px;
+
+}
+.img-text{
+    font-size: 21px;
+    font-weight: 700;
+    margin-left: 50px;
+}
+.txt{
+    padding-top: 20px;
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    margin-top: 50px;
+    
+    display: flex;
+    align-content: center;
+    
+}
+.contact{
+    width: 200px;
+    margin-left: 950px;
+    
+}
+.help{
+    width: 200px;
+
+}
+.footer-txt1{
+    color: #423f3f;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 22px;
+    font-weight: 400;
+}
+.footer-txt2{
+    color: #423f3f;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 22px;
+    font-weight: 400;
+}
+.lt-lst-footer{
+    display: flex;
+    align-content: center;
+    width: 300px;
+
+    font-size: 21px;
+    margin-left: 10px;
+}
+.logos-footer{
+    margin-left: 20px;
+}
+.flag
+{
+    display: flex;
+    align-content: center;
+    margin-left: 450px;
+}
+.text-footer1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.lst-footer
+{
+    display: flex;
+    align-content: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.priv{
+
+    margin-left: 14px;
+}
+.priv1{
+    
+  margin-left: 23px;
+  font-size: 13px;
+}
+.priv2{
+    
+  margin-left: 15px;
+}
+.priv3{
+    
+  margin-left: 10px;
+}
+.last-footer-txt{
+    margin-top: 10px;
+}
+.img-foote{
+    width: 28px;
+    height: 19px;
+    margin-top: 10px;
+}
+.rgt-header-main:hover{
+    color: blue;
+}
+.img:hover{
+    transform: scale(1.1);
+
+}
